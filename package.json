@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/AndreyNazarov97/webcrawlerhttp/issues"
   },
-  "homepage": "https://github.com/AndreyNazarov97/webcrawlerhttp#readme"
+  "homepage": "https://github.com/AndreyNazarov97/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
 }
